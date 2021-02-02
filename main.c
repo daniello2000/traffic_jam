@@ -9,8 +9,7 @@
 #include "ausgabe.h"
 
 #define HILFE_TEXT \
-"Verkehr von Daniel Engelhardt (2004 / 2005) für die Facharbeit \n\
-Selbstorganisation: Ist ein Verkehrsstau Chaos?\n\
+"Verkehr von Daniel Engelhardt\n\
 \n\
 Programmnutzung: \n\
 $ verkehr <Parameter >\n\
